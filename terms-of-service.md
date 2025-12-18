@@ -53,13 +53,13 @@ A valid payment method, including credit card or PayPal, is required to process 
 Should automatic billing fail to occur for any reason, Writesonic, Inc. will issue an electronic invoice indicating that you must proceed manually, within a certain deadline date, with the full payment corresponding to the billing period as indicated on the invoice.
 
 ## Free Trial
-Writesonic, Inc. may, at its sole discretion, offer a Subscription with a free trial for a limited period of time (“Free Trial”).
+Writesonic, Inc. does not offer free trials for its Subscriptions.
 
-You may be required to enter your billing information in order to sign up for Free Trial.
+Access to any Subscription requires the payment of the applicable Subscription fees at the time of purchase or as otherwise specified at checkout.
 
-If you do enter your billing information when signing up for Free Trial, you will not be charged by Writesonic, Inc. until Free Trial has expired. On the last day of Free Trial period, unless you cancelled your Subscription, you will be automatically charged the applicable Subscription fees for the type of Subscription you have selected.
+No Subscription will be provided on a trial, promotional, or complimentary basis unless expressly stated in writing by Writesonic, Inc.
 
-At any time and without notice, Writesonic, Inc. reserves the right to (i) modify Terms of Service of Free Trial offer, or (ii) cancel such Free Trial offer.
+Writesonic, Inc. reserves the right, at its sole discretion and without notice, to modify its Subscription offerings or pricing structure in accordance with its Terms of Service.
 
 ## Fee Changes
 Writesonic, Inc., in its sole discretion and at any time, may modify Subscription fees for the Subscriptions. Any Subscription fee change will become effective at the end of the then-current Billing Cycle.
@@ -188,19 +188,20 @@ We may terminate or suspend your account and bar access to Service immediately, 
 If you wish to terminate your account, you may simply discontinue using Service.
 
 ## Governing Law
-These Terms shall be governed and construed in accordance with the laws of State of Delaware without regard to its conflict of law provisions.
+These Terms shall be governed and construed in accordance with the laws of the State of California, without regard to its conflict of law provisions.
 
-Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Service and supersede and replace any prior agreements we might have had between us regarding Service.
+Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Service and supersede and replace any prior agreements we might have had between us regarding the Service.
+
 
 ## Changes To Service
 We reserve the right to withdraw or amend our Service, and any service or material we provide via Service, in our sole discretion without notice. We will not be liable if for any reason all or any part of Service is unavailable at any time or for any period. From time to time, we may restrict access to some parts of Service, or the entire Service, to users, including registered users.
 
 ## Amendments To Terms
-We may amend Terms at any time by posting the amended terms on this site. It is your responsibility to review these Terms periodically.
+We may amend these Terms from time to time by posting the amended terms on this site. In the event of material changes, we will provide notice to users at least 7 days prior to the effective date of the revised Terms, through the Platform, by email, or by other reasonable means.
 
-Your continued use of the Platform following the posting of revised Terms means that you accept and agree to the changes. You are expected to check this page frequently so you are aware of any changes, as they are binding on you.
+It is your responsibility to review the updated Terms once notified. Your continued use of the Platform after the revised Terms become effective constitutes your acceptance of the changes.
 
-By continuing to access or use our Service after any revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, you are no longer authorized to use Service.
+If you do not agree to the revised Terms, you must discontinue use of the Service before the effective date of the changes. Continued access to or use of the Service after that date indicates your agreement to be bound by the revised Terms.
 
 ## Waiver And Severability
 No waiver by Company of any term or condition set forth in Terms shall be deemed a further or continuing waiver of such term or condition or a waiver of any other term or condition, and any failure of Company to assert a right or provision under Terms shall not constitute a waiver of such right or provision.
@@ -209,6 +210,11 @@ If any provision of Terms is held by a court or other tribunal of competent juri
 
 ## Acknowledgement
 By using service or other services provided by us, you acknowledge that you have read these terms of service and agree to be bound by them.
+
+## Disclosure of AI Use
+Platform output may be used for commercial purposes, subject to compliance with these Terms. However, where such output is shared, published, distributed, or otherwise made available to third parties, the user is required to clearly and conspicuously disclose that artificial intelligence was utilized in the creation of such output.
+
+The form and manner of such disclosure must be reasonable and sufficient to inform third parties of the use of AI-generated content. Failure to provide the required disclosure may constitute a breach of these Terms.
 
 ## Contact Us
 Please send your feedback, comments, requests for technical support:
