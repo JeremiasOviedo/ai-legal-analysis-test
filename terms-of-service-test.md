@@ -26,6 +26,8 @@ We reserve the right to refuse or cancel your order at any time for reasons incl
 
 We reserve the right to modify the number of words charged for the output or input or impose any usage restrictions per hour, regardless of what was previously committed at the time of subscription. These changes will be made according to our model capacity to safeguard the interests of all users and to ensure uniform access to the service. We take this step to provide equal opportunity to every user and protect the quality of our service.
 
+this is a real change for testing purposes
+
 We reserve the right to refuse or cancel your order if fraud or an unauthorized or illegal transaction is suspected.
 
 ## Basic Features
@@ -207,12 +209,6 @@ If you do not agree to the revised Terms, you must discontinue use of the Servic
 No waiver by Company of any term or condition set forth in Terms shall be deemed a further or continuing waiver of such term or condition or a waiver of any other term or condition, and any failure of Company to assert a right or provision under Terms shall not constitute a waiver of such right or provision.
 
 If any provision of Terms is held by a court or other tribunal of competent jurisdiction to be invalid, illegal or unenforceable for any reason, such provision shall be eliminated or limited to the minimum extent such that the remaining provisions of Terms will continue in full force and effect.
-
-## Acknowledgement
-By using service or other services provided by us, you acknowledge that you have read these terms of service and agree to be bound by them.
-
-## Disclosure of AI Use
-Platform output may be used for commercial purposes, subject to compliance with these Terms. However, where such output is shared, published, distributed, or otherwise made available to third parties, the user is required to clearly and conspicuously disclose that artificial intelligence was utilized in the creation of such output.
 
 The form and manner of such disclosure must be reasonable and sufficient to inform third parties of the use of AI-generated content. Failure to provide the required disclosure may constitute a breach of these Terms.
 
