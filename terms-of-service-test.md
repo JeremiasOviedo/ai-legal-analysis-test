@@ -1,5 +1,5 @@
 # Terms and Conditions
-## Introduction
+## Introduction Test
 Welcome to Writesonic, Inc.(“Company”, “we”, “our”, “us”)! As you have just clicked our Terms of Service, please pause, grab a cup of coffee and carefully read the following pages. It will take you approximately 5 minutes.
 
 These Terms of Service (“Terms”, “Terms of Service”) govern your use of our web pages located at https://writesonic.com operated by Writesonic, Inc.
