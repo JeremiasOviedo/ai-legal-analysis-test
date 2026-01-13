@@ -18,7 +18,7 @@ By creating an Account on our Service, you agree to subscribe to newsletters, ma
 ## Purchases
 If you wish to purchase any product or service made available through Service (“Purchase”), you may be asked to supply certain information relevant to your Purchase including, without limitation, your credit card number, the expiration date of your credit card, your billing address, and your shipping information.
 
-You represent and warrant that: (i) you have the legal right to use any credit card(s) or other payment method(s) in connection with any Purchase; and that (ii) the information you supply to us is true, correct and complete.
+You represent and warrant that: (i) you have the legal right to use any credit card(s) or other payment method(s) in connection with any Purchase; and that (ii) the information you supply to us is true, correct and complete.asdasdasd
 
 We may employ the use of third party services for the purpose of facilitating payment and the completion of Purchases. By submitting your information, you grant us the right to provide the information to these third parties subject to our Privacy Policy.
 
@@ -64,7 +64,7 @@ No Subscription will be provided on a trial, promotional, or complimentary basis
 Writesonic, Inc. reserves the right, at its sole discretion and without notice, to modify its Subscription offerings or pricing structure in accordance with its Terms of Service.
 
 ## Fee Changes
-Writesonic, Inc., in its sole discretion and at any time, may modify Subscription fees for the Subscriptions. Any Subscription fee change will become effective at the end of the then-current Billing Cycle.
+Writesonic, Inc., in its sole discretion and at any time, may modify Subscription fees for the Subscriptions. Any Subscription fee change will become effective at the end of the then-current Billing Cycle.asdasdasd
 
 At any time and without notice, Writesonic, Inc. reserves the right to (i) modify Terms of Service of Free Trial offer, or (ii) cancel such Free Trial offer. asdasdasdasdasd
 
@@ -80,18 +80,18 @@ The vast majority of users (over 95%) consistently operate within the defined pa
 
 Our system diligently monitors for automated or robotic behavior to maintain service safety and quality. Please be aware that sharing login details of unlimited accounts for monetary gains is considered illegal. Each seat is intended for one individual user only, and multiple users sharing one account are not permitted.
 
-Warning: Please note that unusually high usage or sharing of login details could lead to account suspension or deletion without prior notice, with no possibility for refunds.
+Warning: Please note that unusually high usage or sharing of login details could lead to account suspension or deletion without prior notice, with no possibility for refunds.asdasdasdasd
 
 ## Prohibited Uses
 You may use Service only for lawful purposes and in accordance with Terms. You agree not to use Service:
 
 - In any way that violates any applicable national or international law or regulation.
-- For the purpose of exploiting, harming, or attempting to exploit or harm minors in any way by exposing them to inappropriate content or otherwise.
+- For the purpose of exploiting, harming, or attempting to exploit or harm minors in any way by exposing them to inappropriate content or otherwise.asdasdasdasd
 - To transmit, or procure the sending of, any advertising or promotional material, including any “junk mail”, “chain letter,” “spam,” or any other similar solicitation.
-- To impersonate or attempt to impersonate Company, a Company employee, another user, or any other person or entity.
+- To impersonate or attempt to impersonate Company, a Company employee, another user, or any other person or entity.asdasdasd
 - In any way that infringes upon the rights of others, or in any way is illegal, threatening, fraudulent, or harmful, or in connection with any unlawful, illegal, fraudulent, or harmful purpose or activity.
 - To engage in any other conduct that restricts or inhibits anyone’s use or enjoyment of Service, or which, as determined by us, may harm or offend Company or users of Service or expose them to liability.
-- Our AI service provider “Open AI” does not permit the generation of sexual, religious and political content and hence you are strictly prohibited from generating any such content. If even by mistake, you try to generate such content, our system will give you an error message of “Unsafe Content” the first time and this is to be considered the final warning. If you try to generate such content again, your subscription will be cancelled and you will be debarred from using our services again and no refunds will be issued.
+- Our AI service provider “Open AI” does not permit the generation of sexual, religious and political content and hence you are strictly prohibited from generating any such content. If even by mistake, you try to generate such content, our system will give you an error message of “Unsafe Content” the first time and this is to be considered the final warning. If you try to generate such content again, your subscription will be cancelled and you will be debarred from using our services again and no refunds will be issued.asdasdasd
 Additionally, you agree not to:
 - Use Service in any manner that could disable, overburden, damage, or impair Service or interfere with any other party’s use of Service, including their ability to engage in real time activities through Service.
 - Use any robot, spider, or other automatic device, process, or means to access Service for any purpose, including monitoring or copying any of the material on Service.
