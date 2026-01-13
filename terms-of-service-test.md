@@ -196,7 +196,7 @@ Our failure to enforce any right or provision of these Terms will not be conside
 
 
 ## Changes To Service
-We reserve the right to withdraw or amend our Service, and any service or material we provide via Service, in our sole discretion without notice. We will not be liable if for any reason all or any part of Service is unavailable at any time or for any period. From time to time, we may restrict access to some parts of Service, or the entire Service, to users, including registered users.
+We reserve the right to withdraw or amend our Service, and any service or material we provide via Service, in our sole discretion without notice. We will not be liable if for any reason all or any part of Service is unavailable at any time or for any period. From time to time, we may restrict access to some parts of Service, or the entire Service, to users, including registered users. asdasd asdasd asda sdas dasd asdasd asdasda sdasdasd asdasdasda sdasdas d
 
 ## Amendments To Terms
 We may amend these Terms from time to time by posting the amended terms on this site. In the event of material changes, we will provide notice to users at least 7 days prior to the effective date of the revised Terms, through the Platform, by email, or by other reasonable means.
